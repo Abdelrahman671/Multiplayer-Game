@@ -6,7 +6,7 @@ First of all, This game is similar to snake game idea.
 
 > game.bat starts the server with 2 clients
 
-![multiplayer-game-pic](https://github.com/Abdelrahman671/Multiplayer-Game/snake.png)
+![multiplayer-game-pic](https://github.com/Abdelrahman671/Multiplayer-Game/blob/main/snake.png)
 
 ## Resources:
 * [Python Online Game Tuts](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kR7Rh-7JCVDN8lm3Utumvq)
